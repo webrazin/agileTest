@@ -1,1 +1,3 @@
-becuase it is boring now
+becuase it is
+
+I am testing git 
